@@ -1,0 +1,16 @@
+
+h2{ font-family: cursive;
+	color: blueviolet;}
+
+
+#container {
+  width: 500px;
+  height: 500px;
+  position: relative;
+  background: white;
+}
+
+
+#animate { 
+  position: absolute;
+}
